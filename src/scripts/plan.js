@@ -1,5 +1,6 @@
 const types = ["Soybean", "Corn", "Asparagus", "Wheat", "Potato", "Sunflower"]
 
+// the function declaration "export" here exports this to another JS file
 export const createPlan = () => {
     const plan = []
 
